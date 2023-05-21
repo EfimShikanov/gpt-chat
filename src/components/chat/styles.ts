@@ -17,6 +17,7 @@ export const Message = styled.div<{ role: "user" | "assistant" }>`
   border-radius: 10px;
   font-size: 18px;
   color: #f8f0fb;
+  white-space: pre-line;
   background: ${({ role }) => (role === "assistant" ? "#6320EE" : "#8075FF")};
   ${({ role }) => role === "user" && "margin-left: auto"};
 `;
