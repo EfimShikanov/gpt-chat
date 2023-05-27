@@ -19,7 +19,7 @@ jobs:
       - name: Install
         run: npm ci
         env: 
-          OPENAI_API_KEY: 
+          REACT_APP_OPENAI_API_KEY: 
             ${{ secrets.OPENAI_API_KEY }}
       - name: Build
         run: npm run build
