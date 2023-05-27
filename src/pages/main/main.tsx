@@ -10,7 +10,6 @@ const Main: React.FC = () => {
   const [inputValue, setInputValue] = useState<string>("");
   const dispatch = useAppDispatch();
 
-  
   const submitHandler = () => {
     dispatch(sendUserQuery(inputValue));
     setInputValue("");
