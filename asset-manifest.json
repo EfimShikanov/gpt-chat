@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gpt-chat/static/css/main.0d6d804b.css",
-    "main.js": "/gpt-chat/static/js/main.53a9f026.js",
+    "main.js": "/gpt-chat/static/js/main.fa26a299.js",
     "index.html": "/gpt-chat/index.html",
     "main.0d6d804b.css.map": "/gpt-chat/static/css/main.0d6d804b.css.map",
-    "main.53a9f026.js.map": "/gpt-chat/static/js/main.53a9f026.js.map"
+    "main.fa26a299.js.map": "/gpt-chat/static/js/main.fa26a299.js.map"
   },
   "entrypoints": [
     "static/css/main.0d6d804b.css",
-    "static/js/main.53a9f026.js"
+    "static/js/main.fa26a299.js"
   ]
 }
