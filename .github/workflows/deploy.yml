@@ -23,7 +23,7 @@ jobs:
         run: npm ci
             
       - name: Build
-        run: REACT_APP_OPENAI_API_KEY="${{ REACT_APP_OPENAI_API_KEY}}" npm run build
+        run: REACT_APP_OPENAI_API_KEY=$REACT_APP_OPENAI_API_KEY npm run build
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
