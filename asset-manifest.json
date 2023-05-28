@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/gpt-chat/static/css/main.0d6d804b.css",
-    "main.js": "/gpt-chat/static/js/main.b70c9746.js",
+    "main.css": "/gpt-chat/static/css/main.1ccd3124.css",
+    "main.js": "/gpt-chat/static/js/main.4e052b86.js",
+    "static/media/GoogleSans-Regular.woff": "/gpt-chat/static/media/GoogleSans-Regular.af22ed9938d1f3ec346c.woff",
+    "static/media/GoogleSans-Medium.woff": "/gpt-chat/static/media/GoogleSans-Medium.20a76f9128def8ff6c4e.woff",
+    "static/media/GoogleSans-Bold.woff": "/gpt-chat/static/media/GoogleSans-Bold.3b37e86bcf143949bbb7.woff",
     "index.html": "/gpt-chat/index.html",
-    "main.0d6d804b.css.map": "/gpt-chat/static/css/main.0d6d804b.css.map",
-    "main.b70c9746.js.map": "/gpt-chat/static/js/main.b70c9746.js.map"
+    "main.1ccd3124.css.map": "/gpt-chat/static/css/main.1ccd3124.css.map",
+    "main.4e052b86.js.map": "/gpt-chat/static/js/main.4e052b86.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d6d804b.css",
-    "static/js/main.b70c9746.js"
+    "static/css/main.1ccd3124.css",
+    "static/js/main.4e052b86.js"
   ]
 }
